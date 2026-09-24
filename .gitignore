@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.pytest_cache/
+
+# 自动下载的数据集、训练产物
+data/
+checkpoints/
+outputs/
